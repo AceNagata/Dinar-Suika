@@ -18,7 +18,7 @@
                     "name": "Throw",
                     "type": "Button",
                     "id": "adf48c0b-b28c-4f57-9733-9986871c12c6",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -205,6 +205,17 @@
                     "name": "",
                     "id": "b1b94c2b-eb16-48e2-b9cc-fceb00e10d1d",
                     "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throw",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3938f16e-59e7-408b-a991-dc79f1a12596",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
