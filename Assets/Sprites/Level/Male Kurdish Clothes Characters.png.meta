@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 8dc61c63b13947c4f9601659309be553
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7162683731932712869
+    second: Male Kurdish Clothes Characters_0
+  - first:
+      213: -2163915458920251368
+    second: Male Kurdish Clothes Characters_1
+  - first:
+      213: 7892147175971735409
+    second: Male Kurdish Clothes Characters_2
+  - first:
+      213: -4342493384248682654
+    second: Male Kurdish Clothes Characters_3
+  - first:
+      213: 7004779014525277122
+    second: Male Kurdish Clothes Characters_4
+  - first:
+      213: 4377755018667933033
+    second: Male Kurdish Clothes Characters_5
+  - first:
+      213: -2954185917835754074
+    second: Male Kurdish Clothes Characters_6
+  - first:
+      213: -1063133752565642847
+    second: Male Kurdish Clothes Characters_7
+  - first:
+      213: -6199582635353793912
+    second: Male Kurdish Clothes Characters_8
+  - first:
+      213: 6184535923658890284
+    second: Male Kurdish Clothes Characters_9
+  - first:
+      213: -1027962673140850449
+    second: Male Kurdish Clothes Characters_10
+  - first:
+      213: 6229396129723367334
+    second: Male Kurdish Clothes Characters_11
+  - first:
+      213: -2951872741584486918
+    second: Male Kurdish Clothes Characters_12
+  - first:
+      213: 4564386300990456304
+    second: Male Kurdish Clothes Characters_13
+  - first:
+      213: 7820585094548841782
+    second: Male Kurdish Clothes Characters_14
+  - first:
+      213: 6571412244791311289
+    second: Male Kurdish Clothes Characters_15
+  - first:
+      213: -1501726321569571820
+    second: Male Kurdish Clothes Characters_16
+  - first:
+      213: -7459946949300047416
+    second: Male Kurdish Clothes Characters_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 711
+        width: 154
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af815897e6f66360800000000000000
+      internalID: 7162683731932712869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 711
+        width: 146
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8100513ea5a38f1e0800000000000000
+      internalID: -2163915458920251368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 711
+        width: 146
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177c5eaca0a868d60800000000000000
+      internalID: 7892147175971735409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 711
+        width: 146
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2679f58464d5cb3c0800000000000000
+      internalID: -4342493384248682654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 711
+        width: 144
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3d3ea9669f53160800000000000000
+      internalID: 7004779014525277122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_5
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 711
+        width: 129
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96db261cef8e0cc30800000000000000
+      internalID: 4377755018667933033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 383
+        width: 154
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a540f64f8f9007d0800000000000000
+      internalID: -2954185917835754074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 146
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c8991c7dfe31f0800000000000000
+      internalID: -1063133752565642847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 383
+        width: 146
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a9e00a078a6f9a0800000000000000
+      internalID: -6199582635353793912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_9
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 383
+        width: 148
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c945ec7a2e3d550800000000000000
+      internalID: 6184535923658890284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_10
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 383
+        width: 144
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe024192561fbb1f0800000000000000
+      internalID: -1027962673140850449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 384
+        width: 129
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afba5576c2437650800000000000000
+      internalID: 6229396129723367334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 151
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb2b79167d807d0800000000000000
+      internalID: -2951872741584486918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 49
+        width: 146
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f102385825f75f30800000000000000
+      internalID: 4564386300990456304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 53
+        width: 143
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 3}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356c4055bc488c60800000000000000
+      internalID: 7820585094548841782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 48
+        width: 146
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb307bae98523b50800000000000000
+      internalID: 6571412244791311289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_16
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 48
+        width: 143
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cddf4fddbc82be0800000000000000
+      internalID: -1501726321569571820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Kurdish Clothes Characters_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 49
+        width: 129
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c136bb26c1f87890800000000000000
+      internalID: -7459946949300047416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 614df0cc878e78d4fa5776b2616a0854
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Male Kurdish Clothes Characters_0: 7162683731932712869
+      Male Kurdish Clothes Characters_1: -2163915458920251368
+      Male Kurdish Clothes Characters_10: -1027962673140850449
+      Male Kurdish Clothes Characters_11: 6229396129723367334
+      Male Kurdish Clothes Characters_12: -2951872741584486918
+      Male Kurdish Clothes Characters_13: 4564386300990456304
+      Male Kurdish Clothes Characters_14: 7820585094548841782
+      Male Kurdish Clothes Characters_15: 6571412244791311289
+      Male Kurdish Clothes Characters_16: -1501726321569571820
+      Male Kurdish Clothes Characters_17: -7459946949300047416
+      Male Kurdish Clothes Characters_2: 7892147175971735409
+      Male Kurdish Clothes Characters_3: -4342493384248682654
+      Male Kurdish Clothes Characters_4: 7004779014525277122
+      Male Kurdish Clothes Characters_5: 4377755018667933033
+      Male Kurdish Clothes Characters_6: -2954185917835754074
+      Male Kurdish Clothes Characters_7: -1063133752565642847
+      Male Kurdish Clothes Characters_8: -6199582635353793912
+      Male Kurdish Clothes Characters_9: 6184535923658890284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
