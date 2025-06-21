@@ -16,6 +16,14 @@ public class BillCombiner : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+
+        //if (_info == null)
+        //{
+        //    Debug.LogError($"Missing BillInfo on '{gameObject.name}' (layer: {gameObject.layer}) in BillCombiner for {name}");
+        //    return;
+        //}
+
+
         if (collision.gameObject.layer == _layerIndex)
         {
             BillInfo info = collision.gameObject.GetComponent<BillInfo>();
@@ -30,7 +38,7 @@ public class BillCombiner : MonoBehaviour
                     {
                         GameManager.instance.IncreaseScore(_info.PointsWhenAnnihilated);
 
-                        if (_info.BillIndex == BillSelector.instance.Bills.Length -1)
+                        if (_info.BillIndex == BillSelector.instance.Bills.Length - 1)
                         {
                             Destroy(collision.gameObject);
                             Destroy(gameObject);
@@ -48,7 +56,7 @@ public class BillCombiner : MonoBehaviour
                                 informer.WasCombinedIn = true;
                             }
 
-                            Destroy(collision.gameObject);
+                             Destroy(collision.gameObject);
                             Destroy(gameObject);
                         }
                     }
